@@ -1,6 +1,6 @@
 {
-  "name": "Diesel Logging",
-  "short_name": "Diesel",
+  "name": "Diesel Logging V2",
+  "short_name": "Diesel V2",
   "description": "Installable diesel logging app with offline support and Google Sheets sync.",
   "start_url": "./index.html",
   "scope": "./",
