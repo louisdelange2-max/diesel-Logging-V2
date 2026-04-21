@@ -1,4 +1,4 @@
-const CACHE_NAME = 'diesel-logging-v2026-04-06-syncfast';
+const CACHE_NAME = 'diesel-V2.1';
 const APP_ASSETS = [
   './',
   './index.html',
